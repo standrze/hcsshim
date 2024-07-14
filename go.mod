@@ -1,4 +1,4 @@
-module github.com/Microsoft/standrze
+module github.com/standrze/hcsshim
 
 go 1.21
 
