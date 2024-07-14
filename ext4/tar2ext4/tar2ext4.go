@@ -10,10 +10,10 @@ import (
 	"path"
 	"strings"
 
-	"github.com/Microsoft/hcsshim/ext4/dmverity"
-	"github.com/Microsoft/hcsshim/ext4/internal/compactext4"
-	"github.com/Microsoft/hcsshim/ext4/internal/format"
-	"github.com/Microsoft/hcsshim/internal/log"
+	"github.com/standrze/hcsshim/ext4/dmverity"
+	"github.com/standrze/hcsshim/ext4/internal/compactext4"
+	"github.com/standrze/hcsshim/ext4/internal/format"
+	"github.com/standrze/hcsshim/internal/log"
 	"github.com/pkg/errors"
 )
 
