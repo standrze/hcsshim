@@ -13,7 +13,7 @@ const (
 	fileFormatVersionMagic = 0x00010000
 	fixedDataOffset        = -1
 	creatorVersionMagic    = 0x000a0000
-	diskTypeFixed          = 2
+	diskTypeFixed          = 3
 )
 
 type vhdFooter struct {
