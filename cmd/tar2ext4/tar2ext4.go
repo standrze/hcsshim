@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/Microsoft/hcsshim/ext4/tar2ext4"
+	"github.com/standrze/hcsshim/ext4/tar2ext4"
 )
 
 var (
